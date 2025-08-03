@@ -1,6 +1,6 @@
 # inflator.toml syntax documentation: https://github.com/faretek1/inflator#inflator
 name = 'vec2'
 version = "v1.0.0"
-username = "FAReTek"
+username = "FAReTek1"
 
 [dependencies]
