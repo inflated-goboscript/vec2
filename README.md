@@ -5,6 +5,10 @@
 This is a 2D vector library which is built for [goboscript](https://github.com/aspizu/goboscript).
 It is designed to be used with [inflator](https://github.com/faretek1/inflator).
 
+Implements
+- A vec2 struct
+- A 2x2 matrix struct
+
 ## Credits
 
 - 3blue1brown's youtube series on Linear algebra
